@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portal/v2/cameraplus/static/css/main.386fdf0d.chunk.css",
+    "main.js": "/portal/v2/cameraplus/static/js/main.abaa9582.chunk.js",
+    "main.js.map": "/portal/v2/cameraplus/static/js/main.abaa9582.chunk.js.map",
+    "runtime-main.js": "/portal/v2/cameraplus/static/js/runtime-main.951c2309.js",
+    "runtime-main.js.map": "/portal/v2/cameraplus/static/js/runtime-main.951c2309.js.map",
+    "static/css/2.f4053936.chunk.css": "/portal/v2/cameraplus/static/css/2.f4053936.chunk.css",
+    "static/js/2.109dd470.chunk.js": "/portal/v2/cameraplus/static/js/2.109dd470.chunk.js",
+    "static/js/2.109dd470.chunk.js.map": "/portal/v2/cameraplus/static/js/2.109dd470.chunk.js.map",
+    "index.html": "/portal/v2/cameraplus/index.html",
+    "precache-manifest.678f2dfd4da3e7055f918fb3e551b798.js": "/portal/v2/cameraplus/precache-manifest.678f2dfd4da3e7055f918fb3e551b798.js",
+    "service-worker.js": "/portal/v2/cameraplus/service-worker.js",
+    "static/css/2.f4053936.chunk.css.map": "/portal/v2/cameraplus/static/css/2.f4053936.chunk.css.map",
+    "static/css/main.386fdf0d.chunk.css.map": "/portal/v2/cameraplus/static/css/main.386fdf0d.chunk.css.map",
+    "static/js/2.109dd470.chunk.js.LICENSE.txt": "/portal/v2/cameraplus/static/js/2.109dd470.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/portal/v2/cameraplus/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.951c2309.js",
+    "static/css/2.f4053936.chunk.css",
+    "static/js/2.109dd470.chunk.js",
+    "static/css/main.386fdf0d.chunk.css",
+    "static/js/main.abaa9582.chunk.js"
+  ]
+}
